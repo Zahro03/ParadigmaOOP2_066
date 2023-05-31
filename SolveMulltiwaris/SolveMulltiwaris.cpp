@@ -19,7 +19,7 @@ public:
 		orang(pUmur)
 	{
 		cout << "pekerjaa dibuat\n" << endl;
-	}
+	} 
 };
 
 class pelajar : virtual public orang {
