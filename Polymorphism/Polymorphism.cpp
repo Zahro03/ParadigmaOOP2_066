@@ -11,7 +11,7 @@ public:
 	virtual void cetak() {
 
 	}
-
+	 
 };
 
 class joko : public seseorang {
